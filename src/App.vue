@@ -1,6 +1,5 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+
 </script>
 
 <template>
@@ -53,7 +52,7 @@ import HelloWorld from './components/HelloWorld.vue'
             <h4 class="uppercase font-bold"><a href="./legal">LEGAL</a></h4>
           </div>
           <div class="text-center">
-            <a href="https://www.instagram.com/zaeemjamal/">
+            <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
               <img class="m-auto" src="./assets/images/insta.png" alt="Instagram">
             </a>
           </div>

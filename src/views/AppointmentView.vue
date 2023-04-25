@@ -3,7 +3,7 @@
         <div class="container m-auto">
             <div class="flex flex-col gap-5">
                 <div class="">
-                    <img class="px-5" src="./../assets/images/appointment.png" alt="">
+                    <img class="px-5" src="./../assets/images/appointment.png" alt="appointment">
                 </div>
                 <div class="text-center px-5">
                     <p class="italic md:w-[60%] m-auto font-gill text-[20px]">Whether you would like to visit our London
@@ -17,7 +17,7 @@
                 </div>
                 <div class="text-center">
                     <p class="font-bold">Whats App +447970817777</p>
-                    <p class="font-bold">Email: VIP@zaeemjamal.com</p>
+                    <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
                 </div>
                 <div class="text-center">
                     <h4 class="uppercase font-bold">Atelier JAMAL ATELIER</h4>
