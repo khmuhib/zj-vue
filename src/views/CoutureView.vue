@@ -2,8 +2,7 @@
     <div class="pb-5">
         <div class="container m-auto">
             <div class="flex flex-col gap-5">
-                <img v-for="list in imgList" :key="list.id" class="px-5" :src="`./src/assets/images/${list.img}`"
-                    alt="couture">
+                <img v-for="list in imgList" :key="list.id" class="px-5" :src="`@/assets/images/${list.img}`" alt="couture">
             </div>
         </div>
     </div>

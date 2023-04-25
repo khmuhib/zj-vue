@@ -40,7 +40,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" :src="`./src/assets/images/${data.img}`" alt="">
+                            <img class="m-auto w-[350px]" :src="`@/assets/images/${data.img}`" alt="">
                         </div>
                         <div class=""></div>
                     </div>
