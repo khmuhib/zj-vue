@@ -19,7 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
             </ul>
           </div>
           <div class="col-span-2">
-            <RouterLink to="/"><img class="w-[80px] m-auto" src="./assets/images/logo.png" alt=""></RouterLink>
+            <RouterLink to="/"><img class="w-[80px] m-auto" src="./assets/images/logo.png" alt="logo"></RouterLink>
           </div>
           <div class="col-span-5">
             <ul class="flex gap-3 justify-end">
@@ -54,7 +54,7 @@ import HelloWorld from './components/HelloWorld.vue'
           </div>
           <div class="text-center">
             <a href="https://www.instagram.com/zaeemjamal/">
-              <img class="m-auto" src="./assets/images/insta.png" alt="">
+              <img class="m-auto" src="./assets/images/insta.png" alt="Instagram">
             </a>
           </div>
         </div>

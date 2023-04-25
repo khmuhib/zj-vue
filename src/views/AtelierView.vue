@@ -20,7 +20,7 @@
                 </div>
             </div>
         </div>
-        <div class="pb-5">
+        <div class="pb-5" v-for="data in dataSet" :key="data.id">
             <div class="container m-auto">
                 <div class="flex flex-col gap-3">
                     <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
@@ -28,154 +28,19 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the idea flow...</h2>
+                                    <h2 class="font-gill text-[20px]">{{ data.quete }}</h2>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">Design</h2>
-                                    <p class="uppercase">- Metier Du Design -</p>
+                                    <h2 class="uppercase text-[20px] font-bold">{{ data.title }}</h2>
+                                    <p class="uppercase">- {{ data.writer }} -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">From dream to paper..via pen!</p>
+                                    <p class="font-gill text-[18px]">{{ data.tagLine }}</p>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier01.jpg" alt="">
-                        </div>
-                        <div class=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pb-5">
-            <div class="container m-auto">
-                <div class="flex flex-col gap-3">
-                    <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
-                        <div class=""></div>
-                        <div class="flex md:justify-end justify-center">
-                            <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where style gets laid...</h2>
-                                </div>
-                                <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">PATTERNS</h2>
-                                    <p class="uppercase">- METIER DE PATRONNAGE -</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">Rock, paper, scissors!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier02.jpg" alt="">
-                        </div>
-                        <div class=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pb-5">
-            <div class="container m-auto">
-                <div class="flex flex-col gap-3">
-                    <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
-                        <div class=""></div>
-                        <div class="flex md:justify-end justify-center">
-                            <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the formless becomes form...</h2>
-                                </div>
-                                <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">TAILORING</h2>
-                                    <p class="uppercase">- METIER DE TAILEUR -</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">Itching to stitch!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier03.jpg" alt="">
-                        </div>
-                        <div class=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pb-5">
-            <div class="container m-auto">
-                <div class="flex flex-col gap-3">
-                    <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
-                        <div class=""></div>
-                        <div class="flex md:justify-end justify-center">
-                            <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the thread comes alive...</h2>
-                                </div>
-                                <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">EMBROIDERY</h2>
-                                    <p class="uppercase">- METIER A BRODER -</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">Exquisite embrace!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier04.jpg" alt="">
-                        </div>
-                        <div class=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pb-5">
-            <div class="container m-auto">
-                <div class="flex flex-col gap-3">
-                    <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
-                        <div class=""></div>
-                        <div class="flex md:justify-end justify-center">
-                            <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where it all comes together...</h2>
-                                </div>
-                                <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">FINISHING</h2>
-                                    <p class="uppercase">- METIER DE FINITION -</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">Altention to detail!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier05.jpg" alt="">
-                        </div>
-                        <div class=""></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pb-5">
-            <div class="container m-auto">
-                <div class="flex flex-col gap-3">
-                    <div class="grid grid-cols-1 md:grid-cols-4 justify-center items-center gap-3">
-                        <div class=""></div>
-                        <div class="flex md:justify-end justify-center">
-                            <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">When the wow sets in...</h2>
-                                </div>
-                                <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">PERFECTION</h2>
-                                    <p class="uppercase">- METIER D'EXPERTISE -</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">The final touch!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier06.jpg" alt="">
+                            <img class="m-auto w-[350px]" :src="`./src/assets/images/${data.img}`" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -220,6 +85,68 @@
         </div>
     </div>
 </template>
+
+<script>
+
+export default {
+    data() {
+        return {
+            dataSet: [
+                {
+                    id: 1,
+                    quete: 'Where the idea flow...',
+                    title: 'Design',
+                    writer: 'Metier Du Design',
+                    tagLine: 'From dream to paper..via pen!',
+                    img: 'atelier01.jpg'
+                },
+                {
+                    id: 2,
+                    quete: 'Where style gets laid...',
+                    title: 'PATTERNS',
+                    writer: 'METIER DE PATRONNAGE',
+                    tagLine: 'Rock, paper, scissors!',
+                    img: 'atelier02.jpg'
+                },
+                {
+                    id: 3,
+                    quete: 'Where the formless becomes form...',
+                    title: 'TAILORING',
+                    writer: 'METIER DE TAILEUR',
+                    tagLine: 'Itching to stitch!',
+                    img: 'atelier03.jpg'
+                },
+                {
+                    id: 4,
+                    quete: 'Where the thread comes alive...',
+                    title: 'EMBROIDERY',
+                    writer: 'METIER A BRODER',
+                    tagLine: 'Exquisite embrace!',
+                    img: 'atelier04.jpg'
+                },
+                {
+                    id: 5,
+                    quete: 'Where it all comes together...',
+                    title: 'FINISHING',
+                    writer: 'METIER DE FINITION',
+                    tagLine: 'Altention to detail!',
+                    img: 'atelier05.jpg'
+                },
+                {
+                    id: 6,
+                    quete: 'When the wow sets in...',
+                    title: 'PERFECTION',
+                    writer: `'METIER D'EXPERTISE'`,
+                    tagLine: 'The final touch!',
+                    img: 'atelier06.jpg'
+                },
+            ]
+        }
+    }
+}
+
+
+</script>
   
 <style></style>
   

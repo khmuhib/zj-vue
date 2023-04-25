@@ -4,19 +4,18 @@
 
 @font-face {
   font-family: "futura";
-  src: url("/assets/fonts/futura.ttf");
+  src: url("./fonts/futura.ttf");
 }
 @font-face {
   font-family: "gill";
-  src: url("/assets/fonts/gill.ttf");
+  src: url("./fonts/gill.ttf");
 }
 
 @layer base {
   p,
   span,
-  a,
   small {
-    font-family: "futura";
+    font-family: "gill";
   }
 
   h1,
@@ -25,6 +24,7 @@
   h4,
   h5,
   h6,
+  a,
   button {
     font-family: "futura";
   }
@@ -104,4 +104,6 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  color: #000000;
 }
