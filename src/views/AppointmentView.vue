@@ -3,7 +3,7 @@
         <div class="container m-auto">
             <div class="flex flex-col gap-5">
                 <div class="">
-                    <img class="px-5" src="@/assets/images/appointment.png" alt="appointment">
+                    <img class="px-5 w-full" src="@/assets/images/appointment.png" alt="appointment">
                 </div>
                 <div class="text-center px-5">
                     <p class="italic md:w-[60%] m-auto font-gill text-[20px]">Whether you would like to visit our London
