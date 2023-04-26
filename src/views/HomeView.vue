@@ -12,8 +12,8 @@ export default {
   <div class="pb-5">
     <div class="container m-auto px-5">
       <div class="w-full">
-        <v-lazy-image class="md:block hidden w-full" src="./src/assets/images/home.jpg" alt="Logo"></v-lazy-image>
-        <v-lazy-image class="md:hidden block w-full" src="./src/assets/images/home_mob.png" alt="Logo"></v-lazy-image>
+        <v-lazy-image class="md:block hidden w-full" src="@/assets/images/home.jpg" alt="Logo"></v-lazy-image>
+        <v-lazy-image class="md:hidden block w-full" src="@/assets/images/home_mob.png" alt="Logo"></v-lazy-image>
       </div>
     </div>
   </div>
