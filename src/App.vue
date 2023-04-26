@@ -61,13 +61,16 @@
         <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
           <div class="text-center">
             <h4 class="uppercase font-bold">RIVATE APPOINTMENTS</h4>
-            <p class="font-gill">Whats App +447970817777</p>
+            <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +447970817777</a>
             <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
           </div>
           <div class="text-center">
-            <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
-            <p class="font-gill">Park Street, Chelsea Creek</p>
-            <p class="font-gill">London. SW6 2FS</p>
+            <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
+              <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
+              <p class="font-gill">Park Street, Chelsea Creek</p>
+              <p class="font-gill">London. SW6 2FS</p>
+            </a>
+
           </div>
           <div class="text-center">
             <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
