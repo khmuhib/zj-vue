@@ -67,7 +67,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier01.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier01.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -94,7 +94,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier02.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier02.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier03.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier03.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -148,7 +148,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier04.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier04.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -175,7 +175,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier05.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier05.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -202,7 +202,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier06.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier06.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
@@ -238,7 +238,7 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="./../assets/images/atelier07.jpg" alt="">
+                            <img class="m-auto w-[350px]" src="@/assets/images/atelier07.jpg" alt="">
                         </div>
                         <div class=""></div>
                     </div>
