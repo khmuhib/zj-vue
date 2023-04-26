@@ -251,60 +251,60 @@
 <script>
 
 export default {
-    // data() {
-    //     return {
-    //         dataSet: [
-    //             {
-    //                 id: 1,
-    //                 quete: 'Where the idea flow...',
-    //                 title: 'Design',
-    //                 writer: 'Metier Du Design',
-    //                 tagLine: 'From dream to paper..via pen!',
-    //                 img: 'atelier01.jpg'
-    //             },
-    //             {
-    //                 id: 2,
-    //                 quete: 'Where style gets laid...',
-    //                 title: 'PATTERNS',
-    //                 writer: 'METIER DE PATRONNAGE',
-    //                 tagLine: 'Rock, paper, scissors!',
-    //                 img: 'atelier02.jpg'
-    //             },
-    //             {
-    //                 id: 3,
-    //                 quete: 'Where the formless becomes form...',
-    //                 title: 'TAILORING',
-    //                 writer: 'METIER DE TAILEUR',
-    //                 tagLine: 'Itching to stitch!',
-    //                 img: 'atelier03.jpg'
-    //             },
-    //             {
-    //                 id: 4,
-    //                 quete: 'Where the thread comes alive...',
-    //                 title: 'EMBROIDERY',
-    //                 writer: 'METIER A BRODER',
-    //                 tagLine: 'Exquisite embrace!',
-    //                 img: 'atelier04.jpg'
-    //             },
-    //             {
-    //                 id: 5,
-    //                 quete: 'Where it all comes together...',
-    //                 title: 'FINISHING',
-    //                 writer: 'METIER DE FINITION',
-    //                 tagLine: 'Altention to detail!',
-    //                 img: 'atelier05.jpg'
-    //             },
-    //             {
-    //                 id: 6,
-    //                 quete: 'When the wow sets in...',
-    //                 title: 'PERFECTION',
-    //                 writer: `'METIER D'EXPERTISE'`,
-    //                 tagLine: 'The final touch!',
-    //                 img: 'atelier06.jpg'
-    //             },
-    //         ]
-    //     }
-    // }
+    data() {
+        return {
+            dataSet: [
+                {
+                    id: 1,
+                    quete: 'Where the idea flow...',
+                    title: 'Design',
+                    writer: 'Metier Du Design',
+                    tagLine: 'From dream to paper..via pen!',
+                    img: 'atelier01.jpg'
+                },
+                {
+                    id: 2,
+                    quete: 'Where style gets laid...',
+                    title: 'PATTERNS',
+                    writer: 'METIER DE PATRONNAGE',
+                    tagLine: 'Rock, paper, scissors!',
+                    img: 'atelier02.jpg'
+                },
+                {
+                    id: 3,
+                    quete: 'Where the formless becomes form...',
+                    title: 'TAILORING',
+                    writer: 'METIER DE TAILEUR',
+                    tagLine: 'Itching to stitch!',
+                    img: 'atelier03.jpg'
+                },
+                {
+                    id: 4,
+                    quete: 'Where the thread comes alive...',
+                    title: 'EMBROIDERY',
+                    writer: 'METIER A BRODER',
+                    tagLine: 'Exquisite embrace!',
+                    img: 'atelier04.jpg'
+                },
+                {
+                    id: 5,
+                    quete: 'Where it all comes together...',
+                    title: 'FINISHING',
+                    writer: 'METIER DE FINITION',
+                    tagLine: 'Altention to detail!',
+                    img: 'atelier05.jpg'
+                },
+                {
+                    id: 6,
+                    quete: 'When the wow sets in...',
+                    title: 'PERFECTION',
+                    writer: `'METIER D'EXPERTISE'`,
+                    tagLine: 'The final touch!',
+                    img: 'atelier06.jpg'
+                },
+            ]
+        }
+    }
 }
 
 
