@@ -1,3 +1,4 @@
+
 <template>
     <div class="about">
         <div class="pb-5 mt-10">
@@ -55,19 +56,24 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the idea flow...</h2>
-                                </div>
-                                <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">Design</h2>
                                     <p class="uppercase">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">From dream to paper..via pen!</p>
+                                    <h2 class="font-gill text-[20px] italic">Where the idea flow...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier01.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier01.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -81,20 +87,25 @@
                         <div class=""></div>
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where style gets laid...</h2>
-                                </div>
                                 <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">PATTERNS</h2>
                                     <p class="uppercase">- METIER DE PATRONNAGE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">Rock, paper, scissors!</p>
+                                    <h2 class="font-gill text-[20px] italic">Where style gets laid...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier02.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier02.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -108,20 +119,25 @@
                         <div class=""></div>
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the formless becomes form...</h2>
-                                </div>
                                 <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">TAILORING</h2>
                                     <p class="uppercase">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">Itching to stitch!</p>
+                                    <h2 class="font-gill text-[20px] italic">Where the formless becomes form...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier03.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier03.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -135,20 +151,25 @@
                         <div class=""></div>
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where the thread comes alive...</h2>
-                                </div>
                                 <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">EMBROIDERY</h2>
                                     <p class="uppercase">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">Exquisite embrace!</p>
+                                    <h2 class="font-gill text-[20px] italic">Where the thread comes alive...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier04.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier04.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -162,20 +183,25 @@
                         <div class=""></div>
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
-                                <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">Where it all comes together...</h2>
-                                </div>
                                 <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">FINISHING</h2>
                                     <p class="uppercase">- METIER DE FINITION -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">Altention to detail!</p>
+                                    <h2 class="font-gill text-[20px] italic">Where it all comes together...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier05.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -190,19 +216,24 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px]">When the wow sets in...</h2>
-                                </div>
-                                <div class="text-center">
                                     <h2 class="uppercase text-[20px] font-bold">PERFECTION</h2>
                                     <p class="uppercase">- METIER D'EXPERTISE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">The final touch!</p>
+                                    <h2 class="font-gill text-[20px] italic">When the wow sets in...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier06.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier06.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -238,7 +269,15 @@
                             </div>
                         </div>
                         <div class="">
-                            <img class="m-auto w-[350px]" src="@/assets/images/atelier07.jpg" alt="">
+                            <vue-load-image>
+                                <template v-slot:image>
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier07.jpg" alt="">
+                                </template>
+                                <template v-slot:preloader>
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                </template>
+                                <template v-slot:error>Image load fails</template>
+                            </vue-load-image>
                         </div>
                         <div class=""></div>
                     </div>
@@ -249,8 +288,11 @@
 </template>
 
 <script>
-
+import VueLoadImage from 'vue-load-image'
 export default {
+    components: {
+        'vue-load-image': VueLoadImage
+    },
     data() {
         return {
             dataSet: [
@@ -308,7 +350,6 @@ export default {
 }
 
 
+
 </script>
-  
-<style></style>
   

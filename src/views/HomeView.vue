@@ -12,18 +12,18 @@ export default {
   <div class="pb-5">
     <div class="container m-auto px-5">
       <div class="w-full">
-        <v-lazy-image class="md:block hidden w-full" src="/assets/images/home.jpg" alt="Logo"></v-lazy-image>
-        <v-lazy-image class="md:hidden block w-full" src="/assets/images/home_mob.png" alt="Logo"></v-lazy-image>
+        <vue-load-image>
+          <template v-slot:image>
+            <img class="md:block hidden w-full" src="@/assets/images/home.jpg" />
+            <img class="md:hidden block w-full" src="@/assets/images/home_mob.png" />
+          </template>
+          <template v-slot:preloader>
+            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+          </template>
+          <template v-slot:error>Image load fails</template>
+        </vue-load-image>
       </div>
-      <vue-load-image>
-        <template v-slot:image>
-          <img src="@/assets/images/home.jpg" />
-        </template>
-        <template v-slot:preloader>
-          <img src="@/assets/images/image-loader.gif" />
-        </template>
-        <template v-slot:error>Image load fails</template>
-      </vue-load-image>
+
     </div>
   </div>
 </template>
