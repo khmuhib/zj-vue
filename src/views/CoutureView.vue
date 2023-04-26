@@ -11,44 +11,44 @@
 <script>
 
 export default {
-    data() {
-        return {
-            imgList: [
-                {
-                    id: 1,
-                    img: 'couture01.jpg'
-                },
-                {
-                    id: 2,
-                    img: 'couture02.jpg'
-                },
-                {
-                    id: 3,
-                    img: 'couture03.jpg'
-                },
-                {
-                    id: 4,
-                    img: 'couture04.jpg'
-                },
-                {
-                    id: 5,
-                    img: 'couture05.jpg'
-                },
-                {
-                    id: 6,
-                    img: 'couture06.jpg'
-                },
-                {
-                    id: 7,
-                    img: 'couture07.jpg'
-                },
-                {
-                    id: 8,
-                    img: 'couture08.jpg'
-                },
-            ]
-        }
-    }
+    // data() {
+    //     return {
+    //         imgList: [
+    //             {
+    //                 id: 1,
+    //                 img: 'couture01.jpg'
+    //             },
+    //             {
+    //                 id: 2,
+    //                 img: 'couture02.jpg'
+    //             },
+    //             {
+    //                 id: 3,
+    //                 img: 'couture03.jpg'
+    //             },
+    //             {
+    //                 id: 4,
+    //                 img: 'couture04.jpg'
+    //             },
+    //             {
+    //                 id: 5,
+    //                 img: 'couture05.jpg'
+    //             },
+    //             {
+    //                 id: 6,
+    //                 img: 'couture06.jpg'
+    //             },
+    //             {
+    //                 id: 7,
+    //                 img: 'couture07.jpg'
+    //             },
+    //             {
+    //                 id: 8,
+    //                 img: 'couture08.jpg'
+    //             },
+    //         ]
+    //     }
+    // }
 }
 
 
