@@ -14,6 +14,10 @@
   font-family: "cinzel";
   src: url("./fonts/cinzel.ttf");
 }
+@font-face {
+  font-family: "georgia";
+  src: url("./fonts/georgia.ttf");
+}
 
 /* @layer base {
   p,

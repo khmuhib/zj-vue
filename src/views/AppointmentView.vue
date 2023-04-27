@@ -27,7 +27,7 @@ export default {
                     </vue-load-image>
                 </div>
                 <div class="text-center px-5">
-                    <p class="italic md:w-[60%] m-auto font-[gill] text-[20px]">Whether you would like to visit our London
+                    <p class="italic md:w-[60%] m-auto font-[georgia] text-[20px]">Whether you would like to visit our London
                         Atelier at
                         Imperial
                         Wharf in

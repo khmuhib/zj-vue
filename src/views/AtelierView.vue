@@ -6,10 +6,10 @@
                 <div class="flex flex-col gap-5 px-5">
                     <div class="text-center">
                         <h1 class="text-[22px] font-bold font-[futura]">ATELIER</h1>
-                        <h3 class="italic font-[futura]  text-[20px]">Les metiers d'Art</h3>
+                        <h3 class="italic font-[georgia]  text-[20px]">Les metiers d'Art</h3>
                     </div>
                     <div class="text-center mt-5 mb-10">
-                        <p class="italic font-[gill] pb-10 text-[20px]">Together under one house, our metiers exquisitely
+                        <p class="italic font-[georgia] pb-10 text-[20px]">Together under one house, our metiers exquisitely
                             craft each piece
                             to
                             it's highest
@@ -60,7 +60,7 @@
                                     <p class="uppercase font-[futura]">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">Where the ideas flow...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">Where the ideas flow...</h2>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                                     <p class="uppercase font-[futura]">- METIER DE PATRONNAGE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">Where style gets laid...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">Where style gets laid...</h2>
                                 </div>
                             </div>
                         </div>
@@ -124,7 +124,7 @@
                                     <p class="uppercase font-[futura]">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">Where the formless takes form...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">Where the formless takes form...</h2>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                                     <p class="uppercase font-[futura]">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">Where the threads come alive...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">Where the threads come alive...</h2>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                                     <p class="uppercase font-[futura]">- METIER DE FINITION -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">Where it all comes together...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">Where it all comes together...</h2>
                                 </div>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
                                     <p class="uppercase font-[futura]">- METIER D'EXPERTISE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[gill] text-[20px] italic">When the wow sets in...</h2>
+                                    <h2 class="font-[georgia] text-[20px] italic">When the wow sets in...</h2>
                                 </div>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <p class="font-[gill] text-[18px]">Our Atelier in Chelsea Creek is a secret place, the
+                                    <p class="font-[georgia] text-[18px]">Our Atelier in Chelsea Creek is a secret place, the
                                         perfect
                                         inspiring space to come
                                         and explore, play, and create art together.</p>
