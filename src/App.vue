@@ -20,11 +20,11 @@ export default {
 
 <template>
   <div class="">
-    <div class="py-10 hidden md:block font-[futura]">
+    <div class="py-10 hidden lg:block font-[futura]">
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class=" lg:col-span-4 md:col-span-3">
-            <ul class="flex lg:gap-10 md:gap-3">
+            <ul class="flex lg:gap-20">
               <li>
                 <RouterLink to="./couture" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Couture
@@ -41,7 +41,7 @@ export default {
             <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
           </div>
           <div class=" lg:col-span-4 md:col-span-3">
-            <ul class="flex lg:gap-10 md:gap-3 justify-end">
+            <ul class="flex lg:gap-20 justify-end">
               <li>
                 <RouterLink to="./atelier" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Atelier</RouterLink>
@@ -56,11 +56,12 @@ export default {
         </div>
       </div>
     </div>
-    <div class="py-5 block md:hidden">
+    <div class="py-5 block lg:hidden">
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class="col-span-2">
-            <font-awesome-icon icon="fa-solid fa-bars" class="text-[30px] text-[#b89356]" @click="MenuOpen()" />
+            <!-- <font-awesome-icon icon="fa-solid fa-bars" class="text-[30px] text-[#b89356]"  /> -->
+            <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
             <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
