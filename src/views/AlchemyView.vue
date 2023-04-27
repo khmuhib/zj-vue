@@ -25,7 +25,7 @@ export default {
                     </vue-load-image>
                 </div>
                 <div class="md:px-20 px-5 text-center">
-                    <p class="italic text-[20px] font-[gill] font-semibold px-10">Welcome to the magical world of Couturier
+                    <p class="italic text-[20px] font-[gill]  px-10">Welcome to the magical world of Couturier
                         Zaeem
                         Jamal, heralded
                         as the 'Alchemist of design', crafting the subtle and sublime for your delight weaving dreams into
@@ -35,7 +35,7 @@ export default {
                     <img class="w-full" src="@/assets/images/alchemy02.png" alt="alchemy">
                 </div>
                 <div class="md:px-20 px-5 text-center">
-                    <p class="italic text-[20px] font-[gill] font-semibold px-10">Each crafted piece is an art form,
+                    <p class="italic text-[20px] font-[gill]  px-10">Each crafted piece is an art form,
                         effortlessly
                         flowing with elegance, grace, femininity, colour and sensuality, around form, structure and
                         innovation. </p>

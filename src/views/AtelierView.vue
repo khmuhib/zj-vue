@@ -6,7 +6,7 @@
                 <div class="flex flex-col gap-5 px-5">
                     <div class="text-center">
                         <h1 class="text-[22px] font-bold font-[futura]">ATELIER</h1>
-                        <h3 class="italic font-[futura] font-semibold text-[20px]">Les metiers d'Art</h3>
+                        <h3 class="italic font-[futura]  text-[20px]">Les metiers d'Art</h3>
                     </div>
                     <div class="text-center mt-5 mb-10">
                         <p class="italic font-[gill] pb-10 text-[20px]">Together under one house, our metiers exquisitely

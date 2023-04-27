@@ -26,12 +26,12 @@ export default {
           <div class=" lg:col-span-4 md:col-span-3">
             <ul class="flex lg:gap-10 md:gap-3">
               <li>
-                <RouterLink to="./couture" class="uppercase text-[10px] sm:text-[16px] font-semibold text-[#A88E6A]">
+                <RouterLink to="./couture" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Couture
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="./alchemy" class="uppercase text-[10px] sm:text-[16px] font-semibold text-[#A88E6A]">
+                <RouterLink to="./alchemy" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Alchemy
                 </RouterLink>
               </li>
@@ -43,11 +43,11 @@ export default {
           <div class=" lg:col-span-4 md:col-span-3">
             <ul class="flex lg:gap-10 md:gap-3 justify-end">
               <li>
-                <RouterLink to="./atelier" class="uppercase text-[10px] sm:text-[16px] font-semibold text-[#A88E6A]">
+                <RouterLink to="./atelier" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Atelier</RouterLink>
               </li>
               <li>
-                <RouterLink to="./appointment" class="uppercase text-[10px] sm:text-[16px] font-semibold text-[#A88E6A]">
+                <RouterLink to="./appointment" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
                   Appointment
                 </RouterLink>
               </li>
