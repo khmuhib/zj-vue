@@ -60,7 +60,7 @@ export default {
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class="col-span-2">
-            <!-- <font-awesome-icon icon="fa-solid fa-bars" class="text-[30px] text-[#b89356]"  /> -->
+            <!-- <font-awesome-icon icon="fa-solid fa-bars" class="text-[30px] text-[#967C57]"  /> -->
             <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
@@ -68,7 +68,7 @@ export default {
           </div>
           <div class="col-span-2">
             <a href="https://wa.me/+447970817777" target="_blank"><font-awesome-icon icon="fa-brands fa-whatsapp"
-                class="text-[30px] float-right text-[#b89356]" /></a>
+                class="text-[30px] float-right text-[#967C57]" /></a>
           </div>
         </div>
       </div>
@@ -80,7 +80,7 @@ export default {
         <router-link to="/couture" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
-              <p class="text-[#b89356] font-[futura] uppercase text-right">Couture</p>
+              <p class="text-[#967C57] font-[futura] uppercase text-right">Couture</p>
             </div>
             <div class="col-span-6">
               <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/couture.png" alt="Couture">
@@ -90,7 +90,7 @@ export default {
         <router-link to="/alchemy" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
-              <p class="text-[#b89356] font-[futura] uppercase text-right">Alchemy</p>
+              <p class="text-[#967C57] font-[futura] uppercase text-right">Alchemy</p>
             </div>
             <div class="col-span-6">
               <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/alchemy.png" alt="Alchemy">
@@ -100,7 +100,7 @@ export default {
         <router-link to="/atelier" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
-              <p class="text-[#b89356] font-[futura] uppercase text-right">Atelier</p>
+              <p class="text-[#967C57] font-[futura] uppercase text-right">Atelier</p>
             </div>
             <div class="col-span-6">
               <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.png" alt="Atelier">
@@ -110,7 +110,7 @@ export default {
         <router-link to="/appointment" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
-              <p class="text-[#b89356] font-[futura] uppercase text-right">Appointment</p>
+              <p class="text-[#967C57] font-[futura] uppercase text-right">Appointment</p>
             </div>
             <div class="col-span-6">
               <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.png" alt="Appointment">
