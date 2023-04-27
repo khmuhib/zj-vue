@@ -66,7 +66,8 @@ export default {
             <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
           </div>
           <div class="col-span-2">
-            <font-awesome-icon icon="fa-brands fa-whatsapp" class="text-[30px] float-right text-[#b89356]" />
+            <a href="https://wa.me/+447970817777" target="_blank"><font-awesome-icon icon="fa-brands fa-whatsapp"
+                class="text-[30px] float-right text-[#b89356]" /></a>
           </div>
         </div>
       </div>
@@ -75,7 +76,7 @@ export default {
     <!-- For Mobile Menu Start-->
     <div class="bg-white shadow absolute z-10 w-full duration-500 ease-in" :class="[open ? 'left-0' : 'left-[-100%]']">
       <div class="flex flex-col gap-3 w-[70%] m-auto py-5">
-        <router-link to="/couture">
+        <router-link to="/couture" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
               <p class="text-[#b89356] font-[futura] uppercase text-right">Couture</p>
@@ -85,7 +86,7 @@ export default {
             </div>
           </div>
         </router-link>
-        <router-link to="/couture">
+        <router-link to="/alchemy" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
               <p class="text-[#b89356] font-[futura] uppercase text-right">Alchemy</p>
@@ -95,23 +96,23 @@ export default {
             </div>
           </div>
         </router-link>
-        <router-link to="/couture">
+        <router-link to="/atelier" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
               <p class="text-[#b89356] font-[futura] uppercase text-right">Atelier</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.png" alt="Alchemy">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.png" alt="Atelier">
             </div>
           </div>
         </router-link>
-        <router-link to="/couture">
+        <router-link to="/appointment" @click="MenuOpen()">
           <div class="grid grid-cols-12 items-center gap-5">
             <div class="col-span-6">
               <p class="text-[#b89356] font-[futura] uppercase text-right">Appointment</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.png" alt="Alchemy">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.png" alt="Appointment">
             </div>
           </div>
         </router-link>
