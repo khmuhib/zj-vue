@@ -60,7 +60,7 @@
                                     <p class="uppercase">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the idea flow...</h2>
+                                    <h2 class="font-gill text-[20px] italic">Where the ideas flow...</h2>
                                 </div>
                             </div>
                         </div>
@@ -124,7 +124,7 @@
                                     <p class="uppercase">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the formless becomes form...</h2>
+                                    <h2 class="font-gill text-[20px] italic">Where the formless takes form...</h2>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                                     <p class="uppercase">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the thread comes alive...</h2>
+                                    <h2 class="font-gill text-[20px] italic">Where the threads come alive...</h2>
                                 </div>
                             </div>
                         </div>
@@ -259,12 +259,6 @@
                                         perfect
                                         inspiring space to come
                                         and explore, play, and create art together.</p>
-                                </div>
-                                <div class="text-center">
-                                    <p class="font-gill text-[18px]">Private and discreet, strategically situated very close
-                                        to London
-                                        Heliport and
-                                        Chelsea Harbour for clients arriving by air or boat.</p>
                                 </div>
                             </div>
                         </div>
