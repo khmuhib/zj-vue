@@ -18,6 +18,10 @@
   font-family: "georgia";
   src: url("./fonts/georgia.ttf");
 }
+@font-face {
+  font-family: "georgia-reg";
+  src: url("./fonts/georgia-reg.ttf");
+}
 
 /* @layer base {
   p,
