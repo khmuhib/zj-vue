@@ -27,7 +27,8 @@ export default {
                     </vue-load-image>
                 </div>
                 <div class="text-center px-5">
-                    <p class="italic md:w-[60%] m-auto font-[georgia] text-[20px]">Whether you would like to visit our London
+                    <p class="italic md:w-[60%] m-auto font-[georgia] text-[20px]">Whether you would like to visit our
+                        London
                         Atelier at
                         Imperial
                         Wharf in
@@ -43,7 +44,7 @@ export default {
                 </div>
                 <div class="text-center font-[futura]">
                     <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
-                        <h4 class="uppercase font-bold">Atelier JAMAL ATELIER</h4>
+                        <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
                         <p class="font-bold">Park Street, Chelsea Creek</p>
                         <p class="font-bold">London SW6 2FS</p>
                     </a>
