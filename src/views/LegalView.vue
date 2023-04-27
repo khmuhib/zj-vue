@@ -3,17 +3,18 @@
         <div class="pb-5">
             <div class="container m-auto px-5">
                 <div class="">
-                    <h1 class="text-center py-10 text-[22px] font-bold">PRIVACY NOTICE</h1>
+                    <h1 class="text-center py-10 text-[22px] font-bold font-[futura]">PRIVACY NOTICE</h1>
                 </div>
                 <div class="flex flex-col gap-10">
-                    <div class="grid grid-cols-4 gap-5">
+                    <div class="grid grid-cols-4 gap-5 font-[futura]">
                         <div class="md:col-span-1 col-span-4">
-                            <h2 class="font-gill font-bold">INTRODUCTION AND IMPORTANT INFORMATION</h2>
+                            <h2 class="font-gill font-bold font-[futura]">INTRODUCTION AND IMPORTANT INFORMATION</h2>
                         </div>
                         <div class="md:col-span-3 col-span-4">
                             <div class="flex flex-col gap-3">
                                 <div class="">
-                                    <p>Welcome to the privacy notice of Z for Z Enterprises Limited, Z for Z USA Inc and
+                                    <p class="">Welcome to the privacy notice of Z for Z Enterprises Limited, Z for Z USA
+                                        Inc and
                                         Zaeem
                                         Jamal,
                                         (herein collectively referred to as ‘ZAEEM JAMAL’). We respect your privacy and are
@@ -119,7 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="grid grid-cols-4">
+                    <div class="grid grid-cols-4 font-[futura]">
                         <div class="md:col-span-1 col-span-4">
                             <h2 class="font-gill font-bold">YOUR DATA</h2>
                         </div>
@@ -362,7 +363,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="grid grid-cols-4">
+                    <div class="grid grid-cols-4 font-[futura]">
                         <div class="md:col-span-1 col-span-4">
                             <h2 class="font-gill font-bold">YOUR LEGAL RIGHTS & GLOSSARY</h2>
                         </div>

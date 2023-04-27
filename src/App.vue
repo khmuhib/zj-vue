@@ -20,7 +20,7 @@ export default {
 
 <template>
   <div class="">
-    <div class="py-10 hidden md:block">
+    <div class="py-10 hidden md:block font-[futura]">
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class=" lg:col-span-4 md:col-span-3">
@@ -122,7 +122,7 @@ export default {
     <!-- For Mobile Menu End-->
 
     <RouterView />
-    <div class="bg-[#1B1E3F] py-10">
+    <div class="bg-[#1B1E3F] py-10 font-[futura]">
       <div class="container m-auto">
         <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
           <div class="text-center">

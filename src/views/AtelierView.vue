@@ -5,11 +5,11 @@
             <div class="container m-auto">
                 <div class="flex flex-col gap-5 px-5">
                     <div class="text-center">
-                        <h1 class="text-[22px] font-bold">ATELIER</h1>
-                        <h3 class="italic font-gill font-semibold text-[20px]">Les metiers d'Art</h3>
+                        <h1 class="text-[22px] font-bold font-[futura]">ATELIER</h1>
+                        <h3 class="italic font-[futura] font-semibold text-[20px]">Les metiers d'Art</h3>
                     </div>
                     <div class="text-center mt-5 mb-10">
-                        <p class="italic font-gill pb-10 text-[20px]">Together under one house, our metiers exquisitely
+                        <p class="italic font-[gill] pb-10 text-[20px]">Together under one house, our metiers exquisitely
                             craft each piece
                             to
                             it's highest
@@ -56,11 +56,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">Design</h2>
-                                    <p class="uppercase">- Metier Du Design -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">Design</h2>
+                                    <p class="uppercase font-[futura]">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the ideas flow...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">Where the ideas flow...</h2>
                                 </div>
                             </div>
                         </div>
@@ -88,11 +88,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">PATTERNS</h2>
-                                    <p class="uppercase">- METIER DE PATRONNAGE -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">PATTERNS</h2>
+                                    <p class="uppercase font-[futura]">- METIER DE PATRONNAGE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where style gets laid...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">Where style gets laid...</h2>
                                 </div>
                             </div>
                         </div>
@@ -120,11 +120,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">TAILORING</h2>
-                                    <p class="uppercase">- METIER DE TAILEUR -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">TAILORING</h2>
+                                    <p class="uppercase font-[futura]">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the formless takes form...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">Where the formless takes form...</h2>
                                 </div>
                             </div>
                         </div>
@@ -152,11 +152,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">EMBROIDERY</h2>
-                                    <p class="uppercase">- METIER A BRODER -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">EMBROIDERY</h2>
+                                    <p class="uppercase font-[futura]">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where the threads come alive...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">Where the threads come alive...</h2>
                                 </div>
                             </div>
                         </div>
@@ -184,11 +184,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">FINISHING</h2>
-                                    <p class="uppercase">- METIER DE FINITION -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">FINISHING</h2>
+                                    <p class="uppercase font-[futura]">- METIER DE FINITION -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">Where it all comes together...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">Where it all comes together...</h2>
                                 </div>
                             </div>
                         </div>
@@ -216,11 +216,11 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold">PERFECTION</h2>
-                                    <p class="uppercase">- METIER D'EXPERTISE -</p>
+                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">PERFECTION</h2>
+                                    <p class="uppercase font-[futura]">- METIER D'EXPERTISE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-gill text-[20px] italic">When the wow sets in...</h2>
+                                    <h2 class="font-[gill] text-[20px] italic">When the wow sets in...</h2>
                                 </div>
                             </div>
                         </div>
@@ -243,7 +243,7 @@
         <div class="py-20">
             <div class="container m-auto">
                 <div class="text-center">
-                    <h2 class="text-[22px] font-bold">L'ATELIER LONDON</h2>
+                    <h2 class="text-[22px] font-bol font-[futura]">L'ATELIER LONDON</h2>
                 </div>
             </div>
         </div>
@@ -255,7 +255,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <p class="font-gill text-[18px]">Our Atelier in Chelsea Creek is a secret place, the
+                                    <p class="font-[gill] text-[18px]">Our Atelier in Chelsea Creek is a secret place, the
                                         perfect
                                         inspiring space to come
                                         and explore, play, and create art together.</p>
