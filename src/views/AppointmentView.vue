@@ -38,20 +38,22 @@ export default {
                         Director:</p>
                 </div>
                 <div class="text-center font-[futura]">
-                    <a href="https://wa.me/+447970817777" class="font-bold" target="_blank">Whats App +447970817777</a>
-                    <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com" target="_blank">VIP@zaeemjamal.com</a>
+                    <a href="https://wa.me/+447970817777" class="font-bold" target="_blank">Whats App
+                        <span>+447970817777</span></a>
+                    <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com"
+                            target="_blank"><span>VIP@zaeemjamal.com</span></a>
                     </p>
                 </div>
                 <div class="text-center font-[futura]">
                     <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
                         <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
-                        <p class="font-bold">Park Street, Chelsea Creek</p>
-                        <p class="font-bold">London SW6 2FS</p>
+                        <p class="">Park Street, Chelsea Creek</p>
+                        <p class="">London SW6 2FS</p>
                     </a>
 
                 </div>
                 <div class="text-center font-[futura]">
-                    <p class="font-bold">Landline: +44 203 637 8277</p>
+                    <p class="font-bold">Landline: <span class="font-normal">+44 203 637 8277</span></p>
                 </div>
 
             </div>

@@ -161,13 +161,13 @@ export default {
 <style scoped>
 .main-logo a {
   font-family: 'Cinzel', serif;
-  font-weight: 600;
+  font-weight: 500;
   font-style: normal;
   font-size: 27px;
   letter-spacing: .1em;
   line-height: .75em;
   text-transform: uppercase;
-  color: #b89356;
+  color: #967C57;
 }
 
 .main-logo span {
@@ -178,6 +178,6 @@ export default {
   letter-spacing: .1em;
   line-height: 1.5em;
   text-transform: uppercase;
-  color: #b89356;
+  color: #967C57;
 }
 </style>
