@@ -140,17 +140,12 @@ export default {
           </div>
           <div class="text-center">
             <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-              <img class="m-auto" src="@/assets/images/insta.png" alt="Instagram">
+              <img class="m-auto h-[40px] w-[40px]" src="@/assets/images/insta.png" alt="Instagram">
             </a>
           </div>
           <div class="text-center">
             <h4 class="uppercase font-bold"><a href="./legal">LEGAL</a></h4>
           </div>
-          <!-- <div class="text-center block sm:hidden">
-            <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-              <img class="m-auto h-[80px]" src="@/assets/images/logo.png" alt="Instagram">
-            </a>
-          </div> -->
         </div>
         <div class="text-center py-5">
           <a href="/">
