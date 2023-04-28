@@ -22,7 +22,9 @@ export default {
             </div>
           </template>
           <template v-slot:preloader>
-            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+            <div class="lg:min-h-[800px] md:hidden block">
+              <img class="m-auto" src="@/assets/images/image-loader.gif" />
+            </div>
           </template>
           <template v-slot:error>Image load fails</template>
         </vue-load-image>
