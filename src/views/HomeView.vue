@@ -10,7 +10,7 @@ export default {
 
 <template>
   <div class="pb-5">
-    <div class="container m-auto px-5 lg:min-h-[800px]">
+    <div class="container m-auto px-5 min-h-[50vh]">
       <div class="w-[80%] m-auto">
         <vue-load-image>
           <template v-slot:image>
