@@ -4,15 +4,12 @@
 
 @font-face {
   font-family: "futura";
-  src: url("./fonts/futura.ttf");
+  src: url("./fonts/Futura-Medium.woff2");
 }
-@font-face {
-  font-family: "gill";
-  src: url("./fonts/gill.ttf");
-}
+
 @font-face {
   font-family: "cinzel";
-  src: url("./fonts/cinzel.ttf");
+  src: url("./fonts/Cinzel-Regular.woff2");
 }
 @font-face {
   font-family: "georgia";
