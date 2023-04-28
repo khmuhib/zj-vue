@@ -25,7 +25,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">Design</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">Design</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
@@ -53,7 +53,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">PATTERNS</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">PATTERNS</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE PATRONNAGE -</p>
                                 </div>
                                 <div class="text-center">
@@ -81,7 +81,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">TAILORING</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">TAILORING</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
@@ -109,7 +109,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">EMBROIDERY</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">EMBROIDERY</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
@@ -137,7 +137,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">FINISHING</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">FINISHING</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE FINITION -</p>
                                 </div>
                                 <div class="text-center">
@@ -166,7 +166,7 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <h2 class="uppercase text-[20px] font-bold font-[futura]">PERFECTION</h2>
+                                    <h2 class="uppercase text-[20px] font-medium font-[futura]">PERFECTION</h2>
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER D'EXPERTISE -</p>
                                 </div>
                                 <div class="text-center">

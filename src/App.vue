@@ -168,7 +168,6 @@ export default {
   font-weight: 500;
   font-style: normal;
   font-size: 27px;
-  letter-spacing: .1em;
   line-height: .75em;
   text-transform: uppercase;
   color: #967C57;
