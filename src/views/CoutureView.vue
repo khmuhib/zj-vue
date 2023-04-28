@@ -1,77 +1,80 @@
 <template>
     <div class="pb-5">
         <div class="container m-auto">
-            <div class="flex flex-col gap-5">
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture01.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+            <div class="w-[80%] m-auto">
+                <div class="flex flex-col gap-5">
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture01.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture02.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture02.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture03.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture03.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture05.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture05.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture06.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture06.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture07.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture07.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
 
-                <vue-load-image>
-                    <template v-slot:image>
-                        <img class="px-5 w-full" src="@/assets/images/couture08.jpg" alt="">
-                    </template>
-                    <template v-slot:preloader>
-                        <img class="m-auto" src="@/assets/images/image-loader.gif" />
-                    </template>
-                    <template v-slot:error>Image load fails</template>
-                </vue-load-image>
+                    <vue-load-image>
+                        <template v-slot:image>
+                            <img class="px-5 w-full lg:min-h-[800px]" src="@/assets/images/couture08.jpg" alt="">
+                        </template>
+                        <template v-slot:preloader>
+                            <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                        </template>
+                        <template v-slot:error>Image load fails</template>
+                    </vue-load-image>
+                </div>
             </div>
+
         </div>
     </div>
 </template>

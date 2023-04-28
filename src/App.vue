@@ -22,36 +22,38 @@ export default {
   <div class="">
     <div class="py-10 hidden lg:block font-[futura]">
       <div class="container m-auto">
-        <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
-          <div class=" lg:col-span-4 md:col-span-3">
-            <ul class="flex lg:gap-20">
-              <li>
-                <RouterLink to="./couture" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
-                  Couture
-                </RouterLink>
-              </li>
-              <li>
-                <RouterLink to="./alchemy" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
-                  Alchemy
-                </RouterLink>
-              </li>
-            </ul>
-          </div>
-          <div class=" lg:col-span-4 md:col-span-6 main-logo text-center">
-            <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
-          </div>
-          <div class=" lg:col-span-4 md:col-span-3">
-            <ul class="flex lg:gap-20 justify-end">
-              <li>
-                <RouterLink to="./atelier" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
-                  Atelier</RouterLink>
-              </li>
-              <li>
-                <RouterLink to="./appointment" class="uppercase text-[10px] sm:text-[16px]  text-[#A88E6A]">
-                  Appointment
-                </RouterLink>
-              </li>
-            </ul>
+        <div class="w-[80%] m-auto">
+          <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
+            <div class=" lg:col-span-4 md:col-span-3">
+              <ul class="flex lg:gap-20">
+                <li>
+                  <RouterLink to="./couture" class="uppercase text-[10px] sm:text-[14px]  text-[#A88E6A]">
+                    Couture
+                  </RouterLink>
+                </li>
+                <li>
+                  <RouterLink to="./alchemy" class="uppercase text-[10px] sm:text-[14px]  text-[#A88E6A]">
+                    Alchemy
+                  </RouterLink>
+                </li>
+              </ul>
+            </div>
+            <div class=" lg:col-span-4 md:col-span-6 main-logo text-center">
+              <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
+            </div>
+            <div class=" lg:col-span-4 md:col-span-3">
+              <ul class="flex lg:gap-20 justify-end">
+                <li>
+                  <RouterLink to="./atelier" class="uppercase text-[10px] sm:text-[14px]  text-[#A88E6A]">
+                    Atelier</RouterLink>
+                </li>
+                <li>
+                  <RouterLink to="./appointment" class="uppercase text-[10px] sm:text-[14px]  text-[#A88E6A]">
+                    Appointment
+                  </RouterLink>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -60,7 +62,6 @@ export default {
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class="col-span-2">
-            <!-- <font-awesome-icon icon="fa-solid fa-bars" class="text-[30px] text-[#967C57]"  /> -->
             <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
@@ -125,34 +126,37 @@ export default {
     <RouterView />
     <div class="bg-[#1B1E3F] py-10 font-[futura]">
       <div class="container m-auto">
-        <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
-          <div class="text-center">
-            <h4 class="uppercase font-bold">PRIVATE APPOINTMENTS</h4>
-            <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +447970817777</a>
-            <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
-          </div>
-          <div class="text-center">
-            <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
-              <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
-              <p class="font-gill">Park Street, Chelsea Creek</p>
-              <p class="font-gill">London. SW6 2FS</p>
-            </a>
+        <div class="w-[80%] m-auto">
+          <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
+            <div class="text-center">
+              <h4 class="uppercase font-bold">PRIVATE APPOINTMENTS</h4>
+              <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +447970817777</a>
+              <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
+            </div>
+            <div class="text-center">
+              <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
+                <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
+                <p class="font-gill">Park Street, Chelsea Creek</p>
+                <p class="font-gill">London. SW6 2FS</p>
+              </a>
 
+            </div>
+            <div class="text-center">
+              <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
+                <img class="m-auto h-[40px] w-[40px]" src="@/assets/images/insta.png" alt="Instagram">
+              </a>
+            </div>
+            <div class="text-center">
+              <h4 class="uppercase font-bold"><a href="./legal">LEGAL</a></h4>
+            </div>
           </div>
-          <div class="text-center">
-            <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-              <img class="m-auto h-[40px] w-[40px]" src="@/assets/images/insta.png" alt="Instagram">
+          <div class="text-center py-5">
+            <a href="/">
+              <img class="m-auto h-[120px]" src="@/assets/images/logo.png" alt="Logo">
             </a>
           </div>
-          <div class="text-center">
-            <h4 class="uppercase font-bold"><a href="./legal">LEGAL</a></h4>
-          </div>
         </div>
-        <div class="text-center py-5">
-          <a href="/">
-            <img class="m-auto h-[120px]" src="@/assets/images/logo.png" alt="Instagram">
-          </a>
-        </div>
+
       </div>
     </div>
   </div>
