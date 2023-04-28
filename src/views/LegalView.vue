@@ -1,7 +1,7 @@
 <template>
     <div class="about">
         <div class="pb-5">
-            <div class="container m-auto px-5">
+            <div class="container m-auto px-5 min-h-[55vh]">
                 <div class="">
                     <h1 class="text-center py-10 text-[22px] font-bold font-[futura]">PRIVACY NOTICE</h1>
                 </div>

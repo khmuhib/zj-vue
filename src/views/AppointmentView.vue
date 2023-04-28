@@ -10,7 +10,7 @@ export default {
 
 <template>
     <div class="pb-5">
-        <div class="container m-auto">
+        <div class="container m-auto min-h-[55vh]">
             <div class="flex flex-col gap-5">
                 <div class="">
                     <vue-load-image>

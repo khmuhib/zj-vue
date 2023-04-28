@@ -2,7 +2,7 @@
 <template>
     <div class="about">
         <div class="pb-5 mt-10">
-            <div class="container m-auto">
+            <div class="container m-auto min-h-[55vh]">
                 <div class="flex flex-col gap-5 px-5">
                     <div class="text-center">
                         <h1 class="text-[22px] font-bold font-[futura]">ATELIER</h1>
@@ -255,7 +255,8 @@
                         <div class="flex md:justify-end justify-center">
                             <div class="flex flex-col justify-center items-center gap-5">
                                 <div class="text-center">
-                                    <p class="font-[georgia] text-[18px]">Our Atelier in Chelsea Creek is a secret place, the
+                                    <p class="font-[georgia] text-[18px]">Our Atelier in Chelsea Creek is a secret place,
+                                        the
                                         perfect
                                         inspiring space to come
                                         and explore, play, and create art together.</p>

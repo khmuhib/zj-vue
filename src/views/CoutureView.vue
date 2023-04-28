@@ -1,6 +1,6 @@
 <template>
     <div class="pb-5">
-        <div class="container m-auto">
+        <div class="container m-auto min-h-[55vh]">
             <div class="w-[80%] m-auto">
                 <div class="flex flex-col gap-5">
                     <vue-load-image>
