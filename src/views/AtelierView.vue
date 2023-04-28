@@ -148,8 +148,7 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]"
-                                        src="https://zaeemjamal.s3.eu-west-2.amazonaws.com/atelier05.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.jpg" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />

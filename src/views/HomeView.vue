@@ -15,7 +15,7 @@ export default {
         <vue-load-image>
           <template v-slot:image>
             <div class="">
-              <img class="md:block hidden w-full" src="https://zaeemjamal1.s3.amazonaws.com/home.jpg" />
+              <img class="md:block hidden w-full" src="@/assets/images/home.jpg" />
             </div>
             <div class=" md:hidden block">
               <img class="w-full" src="@/assets/images/home_mob.png" />

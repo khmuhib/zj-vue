@@ -16,8 +16,7 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="md:block hidden w-full"
-                                    src="https://zaeemjamal.s3.eu-west-2.amazonaws.com/Cosmic.jpg" />
+                                <img class="md:block hidden w-full" src="@/assets/images/Cosmic.jpg" />
                                 <img class="md:hidden block w-full" src="@/assets/images/alchemy01_mob.png" />
                             </template>
                             <template v-slot:preloader>
