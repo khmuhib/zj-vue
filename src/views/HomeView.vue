@@ -10,19 +10,19 @@ export default {
 
 <template>
   <div class="pb-5">
-    <div class="container m-auto px-5">
+    <div class="container m-auto px-5 min-h-[800px]">
       <div class="w-[80%] m-auto">
         <vue-load-image>
           <template v-slot:image>
-            <div class="lg:min-h-[800px]">
+            <div class="">
               <img class="md:block hidden w-full" src="@/assets/images/home.jpg" />
             </div>
-            <div class="lg:min-h-[800px] md:hidden block">
+            <div class=" md:hidden block">
               <img class="w-full" src="@/assets/images/home_mob.png" />
             </div>
           </template>
           <template v-slot:preloader>
-            <div class="lg:min-h-[800px] md:hidden block">
+            <div class=" md:hidden block">
               <img class="m-auto" src="@/assets/images/image-loader.gif" />
             </div>
           </template>
