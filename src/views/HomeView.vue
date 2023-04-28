@@ -10,7 +10,7 @@ export default {
 
 <template>
   <div class="pb-5">
-    <div class="container m-auto px-5 min-h-[50vh]">
+    <div class="container m-auto px-5 min-h-[60vh]">
       <div class="w-[80%] m-auto">
         <vue-load-image>
           <template v-slot:image>
@@ -29,7 +29,6 @@ export default {
           <template v-slot:error>Image load fails</template>
         </vue-load-image>
       </div>
-
     </div>
   </div>
 </template>
