@@ -39,7 +39,7 @@ export default {
               </ul>
             </div>
             <div class=" lg:col-span-4 md:col-span-6 main-logo text-center">
-              <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
+              <RouterLink to="/">ZAEEM JAMAL <br> <span>Atelier</span></RouterLink>
             </div>
             <div class=" lg:col-span-4 md:col-span-3">
               <ul class="flex lg:gap-20 justify-end">
@@ -65,7 +65,7 @@ export default {
             <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
-            <RouterLink to="/">ZAEEM JAMAL <br> <span class="">Atelier</span></RouterLink>
+            <RouterLink to="/">ZAEEM JAMAL <br> <span>Atelier</span></RouterLink>
           </div>
           <div class="col-span-2">
             <a href="https://wa.me/+447970817777" target="_blank"><font-awesome-icon icon="fa-brands fa-whatsapp"
@@ -176,7 +176,7 @@ export default {
 
 .main-logo span {
   font-family: 'Cinzel', serif;
-  font-weight: 600;
+  font-weight: 500;
   font-style: normal;
   font-size: 16px;
   letter-spacing: .1em;
