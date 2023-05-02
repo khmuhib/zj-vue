@@ -12,6 +12,13 @@ export default {
     const siteData = reactive({
       title: `Zaeem Jamal`,
       description: `My beautiful website`,
+      keywords: `your,keywords,here`,
+      robots: `index,follow`,
+      author: `Your Name`,
+      date: `2023-05-03`,
+      image: `https://example.com/image.jpg`,
+      url: `https://example.com/page`,
+      type: `website`,
     })
 
     useHead({
@@ -22,7 +29,50 @@ export default {
           name: `description`,
           content: computed(() => siteData.description),
         },
+        {
+          name: `keywords`,
+          content: computed(() => siteData.keywords),
+        },
+        {
+          name: `robots`,
+          content: computed(() => siteData.robots),
+        },
+        {
+          name: `author`,
+          content: computed(() => siteData.author),
+        },
+        {
+          name: `date`,
+          content: computed(() => siteData.date),
+        },
+        {
+          property: `og:image`,
+          content: computed(() => siteData.image),
+        },
+        {
+          property: `og:url`,
+          content: computed(() => siteData.url),
+        },
+        {
+          property: `og:type`,
+          content: computed(() => siteData.type),
+        },
+        {
+          property: `og:title`,
+          content: computed(() => siteData.title),
+        },
+        {
+          property: `og:description`,
+          content: computed(() => siteData.description),
+        },
       ],
+      structuredData: {
+        '@context': 'http://schema.org',
+        '@type': 'WebSite',
+        'name': 'Zaeem Jamal',
+        'url': 'https://fonts.bglobal.com',
+        'logo': 'https://fonts.bglobal.com/assets/home-dfe25751.jpg',
+      },
     })
   },
 }
