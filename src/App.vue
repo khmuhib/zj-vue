@@ -23,7 +23,7 @@ export default {
     <div class="py-10 hidden lg:block font-[futura]">
       <div class="container m-auto">
         <div class="w-[80%] m-auto">
-          <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
+          <div class="grid grid-cols-12 items-center justify-center px-5">
             <div class=" lg:col-span-4 md:col-span-3">
               <ul class="flex lg:gap-20">
                 <li>
@@ -124,13 +124,13 @@ export default {
     <!-- For Mobile Menu End-->
 
     <RouterView />
-    <div class="bg-[#1B1E3F] py-10 font-[futura]">
-      <div class="container m-auto">
-        <div class="w-[80%] m-auto">
+    <div class="py-10 font-[futura]">
+      <div class="container m-auto px-5">
+        <div class="lg:w-[80%] m-auto bg-[#1B1E3F] pt-5">
           <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
             <div class="text-center">
               <h4 class="uppercase font-bold">PRIVATE APPOINTMENTS</h4>
-              <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +447970817777</a>
+              <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +44 7737 00 7777</a>
               <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
             </div>
             <div class="text-center">
@@ -147,12 +147,12 @@ export default {
               </a>
             </div>
             <div class="text-center">
-              <h4 class="uppercase font-bold"><a href="./legal">LEGAL</a></h4>
+              <h4 class="uppercase font-bold text-[#967C57]"><a href="./legal">LEGAL</a></h4>
             </div>
           </div>
           <div class="text-center py-5">
             <a href="/">
-              <img class="m-auto h-[120px]" src="@/assets/images/logo.png" alt="Logo">
+              <img class="m-auto h-[80px]" src="@/assets/images/logo.png" alt="Logo">
             </a>
           </div>
         </div>

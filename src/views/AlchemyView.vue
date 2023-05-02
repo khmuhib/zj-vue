@@ -53,7 +53,15 @@ export default {
                             reality.</p>
                     </div>
                     <div class="">
-                        <img class="w-full" src="@/assets/images/alchemy02.png" alt="alchemy">
+                        <vue-load-image>
+                            <template v-slot:image>
+                                <img class="w-full" src="@/assets/images/alchemy02.png" alt="alchemy">
+                            </template>
+                            <template v-slot:preloader>
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                            </template>
+                            <template v-slot:error>Image load fails</template>
+                        </vue-load-image>
                     </div>
                     <div class="md:px-20 px-5 text-center">
                         <p class="italic text-[20px] font-[georgia]  px-10">Each crafted piece is an art form,
@@ -61,7 +69,17 @@ export default {
                             flowing with elegance, grace, femininity, colour and sensuality, around form, structure and
                             innovation. </p>
                     </div>
-                    <div class=""></div>
+                    <div class="">
+                        <vue-load-image>
+                            <template v-slot:image>
+                                <img class="w-full" src="@/assets/images/couture05.jpg" />
+                            </template>
+                            <template v-slot:preloader>
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                            </template>
+                            <template v-slot:error>Image load fails</template>
+                        </vue-load-image>
+                    </div>
                 </div>
             </div>
 

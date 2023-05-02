@@ -13,9 +13,8 @@
                         <div class="md:col-span-3 col-span-4">
                             <div class="flex flex-col gap-3">
                                 <div class="">
-                                    <p class="">Welcome to the privacy notice of Z for Z Enterprises Limited, Z for Z
-                                        USA
-                                        Inc and
+                                    <p class="">Welcome to the privacy notice of Z for Z Enterprises Limited, Atelier ZJ
+                                        Ltd and
                                         Zaeem
                                         Jamal,
                                         (herein collectively referred to as ‘ZAEEM JAMAL’). We respect your privacy and
