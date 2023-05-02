@@ -81,6 +81,8 @@
 
 <script>
 import VueLoadImage from 'vue-load-image'
+import { computed, reactive } from 'vue'
+import { useHead } from '@vueuse/head'
 export default {
     components: {
         'vue-load-image': VueLoadImage
@@ -122,7 +124,24 @@ export default {
                 },
             ]
         }
-    }
+    },
+    setup() {
+        const siteData = reactive({
+            title: `Zaeem Jamal | Couture`,
+            description: `My beautiful website`,
+        })
+
+        useHead({
+            // Can be static or computed
+            title: computed(() => siteData.title),
+            meta: [
+                {
+                    name: `description`,
+                    content: computed(() => siteData.description),
+                },
+            ],
+        })
+    },
 }
 
 

@@ -13,9 +13,11 @@
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@vueuse/head": "^1.1.26",
     "lozad": "^1.16.0",
     "v-lazy-image": "^2.1.1",
     "vue": "^3.2.47",
+    "vue-head": "^2.2.0",
     "vue-lazyload": "^3.0.0-rc.2",
     "vue-load-image": "^1.1.0",
     "vue-router": "^4.1.6"

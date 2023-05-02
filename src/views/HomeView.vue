@@ -1,11 +1,32 @@
 <script>
 import VueLoadImage from 'vue-load-image'
+import { computed, reactive } from 'vue'
+import { useHead } from '@vueuse/head'
 
 export default {
   components: {
-    'vue-load-image': VueLoadImage
-  }
-};
+    'vue-load-image': VueLoadImage,
+
+  },
+  setup() {
+    const siteData = reactive({
+      title: `Zaeem Jamal`,
+      description: `My beautiful website`,
+    })
+
+    useHead({
+      // Can be static or computed
+      title: computed(() => siteData.title),
+      meta: [
+        {
+          name: `description`,
+          content: computed(() => siteData.description),
+        },
+      ],
+    })
+  },
+}
+
 </script>
 
 <template>
