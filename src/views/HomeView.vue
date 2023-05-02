@@ -2,11 +2,18 @@
 import VueLoadImage from 'vue-load-image'
 import { computed, reactive } from 'vue'
 import { useHead } from '@vueuse/head'
+import LinkPreview from '@ashwamegh/vue-link-preview'
 
 export default {
   components: {
     'vue-load-image': VueLoadImage,
+    LinkPreview
 
+  },
+  methods: {
+    handleClick(preview) {
+      console.log('click', preview.domain, preview.title, preview.description, preview.img)
+    }
   },
   setup() {
     const siteData = reactive({
@@ -80,6 +87,7 @@ export default {
 </script>
 
 <template>
+  <vue-link-preview url="https://vuejs.org/" @click="handleClick"></vue-link-preview>
   <div class="pb-5">
     <div class="container m-auto px-5 min-h-[55vh]">
       <div class="lg:w-[80%] m-auto">
