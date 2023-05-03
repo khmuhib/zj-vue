@@ -35,7 +35,7 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full hidden md:block" src="@/assets/images/appointment.png"
+                                <img class="px-5 w-full hidden md:block" src="@/assets/images/appointment.jpg"
                                     alt="appointment">
                                 <img class="px-5 w-full block md:hidden" src="@/assets/images/appointment_mob.png"
                                     alt="appointment">
@@ -73,7 +73,7 @@ export default {
 
                     </div>
                     <div class="text-center font-[futura]">
-                        <p class="font-bold">Landline: <span class="font-normal">+44 203 637 8277</span></p>
+                        <p class="font-bold">Landline: <span class="font-normal">+44 7737 00 7777</span></p>
                     </div>
 
                 </div>

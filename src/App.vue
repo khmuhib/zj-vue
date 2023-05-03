@@ -124,16 +124,16 @@ export default {
     <!-- For Mobile Menu End-->
 
     <RouterView />
-    <div class="py-10 font-[futura]">
+    <div class="font-[futura]">
       <div class="container m-auto px-5">
         <div class="lg:w-[80%] m-auto bg-[#1B1E3F] pt-5">
-          <div class="grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-1 text-white gap-5">
-            <div class="text-center">
+          <div class="grid sm:grid-cols-2 lg:grid-cols-6 grid-cols-1 text-white gap-5">
+            <div class="text-center lg:col-span-2">
               <h4 class="uppercase font-bold">PRIVATE APPOINTMENTS</h4>
               <a href="https://wa.me/+447970817777" class="font-gill" target="_blank">Whats App +44 7737 00 7777</a>
               <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
             </div>
-            <div class="text-center">
+            <div class="text-center lg:col-span-2">
               <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
                 <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
                 <p class="font-gill">Park Street, Chelsea Creek</p>

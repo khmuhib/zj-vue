@@ -632,15 +632,177 @@
                                             processors or joint controllers based in the United Kingdom who require
                                             reporting of processing activities in certain circumstances.</li>
                                     </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Cookies Policy</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>The Site uses automatic systems of traffic data collection, such as cookies. A cookie
+                                        is a file stored on the hard disk of the terminal of an Internet user; it does not
+                                        contain intelligible information but it allows linking between a terminal and other
+                                        information about User's experience on the Site and his/her preferences expressed
+                                        while choosing services and purchasing products offered by the Site) provided by the
+                                        Users. For Cookies disseminated by our servers, no one else may gain access to the
+                                        information contained therein. This information and data are gathered directly and
+                                        automatically by the Site. The information collected by cookies will be processed in
+                                        order to optimize the services of the Site. We have provided cookies in connection
+                                        to functions such as selecting the country, the language, the location, browsing the
+                                        catalogue, purchasing products online and in general in connection with the
+                                        provision of services reserved to registered customers. Each Internet browser allows
+                                        the blocking or the deletion of cookies. Your Internet browser contains instructions
+                                        on these procedures. Please access the information on your Internet browser if you
+                                        wish to delete cookies.</p>
+                                    <p>The Site uses automatic systems of traffic data collection, such as cookies. A cookie
+                                        is a file stored on the hard disk of the terminal of an Internet user; it does not
+                                        contain intelligible information but it allows linking between a terminal and other
+                                        information about User's experience on the Site and his/her preferences expressed
+                                        while choosing services and purchasing products offered by the Site) provided by the
+                                        Users. For Cookies disseminated by our servers, no one else may gain access to the
+                                        information contained therein. This information and data are gathered directly and
+                                        automatically by the Site. The information collected by cookies will be processed in
+                                        order to optimize the services of the Site. We have provided cookies in connection
+                                        to functions such as selecting the country, the language, the location, browsing the
+                                        catalogue, purchasing products online and in general in connection with the
+                                        provision of services reserved to registered customers. Each Internet browser allows
+                                        the blocking or the deletion of cookies. Your Internet browser contains instructions
+                                        on these procedures. Please access the information on your Internet browser if you
+                                        wish to delete cookies.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Submissions</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>You agree that any and all proposals, designs, concepts, photographs, testimonials,
+                                        and other items or materials (except for your personal information) disclosed or
+                                        submitted to ZAEEM JAMAL through this Website or by other means (hereinafter
+                                        "Submissions") are neither confidential nor proprietary to you. All submissions
+                                        become ZAEEM JAMAL's property upon submission to ZAEEM JAMAL. By making a Submission
+                                        to ZAEEM JAMAL, you assign to ZAEEM JAMAL all rights, title and interests, including
+                                        copyrights, in the Submission. ZAEEM JAMAL has and will have no obligation: (i) to
+                                        keep any Submission confidential; (ii) to pay you or anyone any compensation for any
+                                        Submission or for using a Submission; (iii) to respond to or acknowledge any
+                                        Submission. You represent and warrant that no Submission you make will violate any
+                                        right of any third party, including, but not limited to, copyright, trademark,
+                                        patent, trade secret, privacy or other personal or proprietary right. By making a
+                                        Submission, you agree that ZAEEM JAMAL has the right, but not the obligation, to
+                                        copy, publish, distribute or use such Submission for any purpose, including, but not
+                                        limited to, advertising, promotional, product development or other commercial
+                                        purposes, without compensation to you or to any other person. You are and shall
+                                        remain solely responsible for the content of any Submission you make.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Links to other Websites</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>The Website may contain links to websites other than its own. These websites may
+                                        contain and be governed by their own terms and conditions of use or no terms and
+                                        conditions at all. ZAEEM JAMAL has no responsibility for those websites and provide
+                                        these links solely for the convenience of its users. Such links may be to
+                                        advertisers, content providers or other companies who may use our logo and/or style
+                                        as a result of a co-branding agreement. These websites may send their own cookies to
+                                        you and may collect information and use the same in a way that is inconsistent with
+                                        these Terms and Conditions of Use. Furthermore, ZAEEM JAMAL cannot control these
+                                        websites and external sources. Hence, ZAEEM JAMAL cannot be held responsible for
+                                        those websites or external sources, and declines any responsibility for the content,
+                                        advertising, products, services and any other material available on or branching off
+                                        those websites and external sources. In addition, ZAEEM JAMAL cannot be held
+                                        responsible for any damage or losses, true or alleged, deriving from the use or from
+                                        having trusted the content, or goods and services available on those websites or
+                                        external sources.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Acceptance</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>By accessing this Website, you represent and warrant that (a) you accept these Terms
+                                        and Conditions of Use; (b) your use of the Website will comply with these Terms and
+                                        Conditions of Use.</p>
 
+                                    <p>You agree to indemnify and hold harmless ZAEEM JAMAL from all damages, costs,
+                                        liabilities, suits, judgments, penalties, expenses, obligations, losses, claims,
+                                        actions, costs and expenses (including, but not limited to, attorneys’ fees and
+                                        expenses), relating to or arising out of any breach of these Terms and Conditions of
+                                        Use or any use of the Website by you.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Disclaimer</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>The content included on this Site is provided on an "as is" basis. ZAEEM JAMAL does
+                                        not give any other warranty, express or implied, or make any representation
+                                        including without limitation that the content included in this Site is complete or
+                                        accurate or up to date. ZAEEM JAMAL reserves the right in its sole discretion and
+                                        without any obligation or notice requirement to change, alter or edit content
+                                        included in this Site.</p>
 
+                                    <p>ZAEEM JAMAL will not be liable for any damages (including without limitation for loss
+                                        of profits, loss of business or of anticipated savings, loss of goodwill, loss of
+                                        reputation, loss or corruption of data or for any type of special, indirect,
+                                        incidental or consequential loss or damage) whether arising out of your use or delay
+                                        or inability to use this Site or its content whether arising in contract, tort
+                                        (including negligence) or otherwise except in the case of fraud or death or personal
+                                        injury caused by ZAEEM JAMAL 's negligence.</p>
+                                    <p>ZAEEM JAMAL does not take responsibility for any event which is outside its
+                                        reasonable control nor for any consequential loss arising from such an event.</p>
+                                    <p>You agree that ZAEEM JAMAL may use personal information provided by you in order to
+                                        conduct appropriate anti fraud checks. Personal information that you provide may be
+                                        disclosed to a credit reference or fraud prevention agency, which may keep a record
+                                        of that information. From time to time, ZAEEM JAMAL may change, alter or modify
+                                        these legal terms. Any changes to these legal terms will be posted on this Site and
+                                        any use by you of this Site after any such changes have been posted shall be deemed
+                                        to indicate your agreement to the modified legal terms, but will not affect any
+                                        orders already placed by you. If you do not agree to the modified legal terms, you
+                                        should cease use of this Site.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-4 font-[georgia-reg]">
+                        <div class="md:col-span-1 col-span-4">
+                            <h2 class="font-gill font-bold">Legal Governance</h2>
+                        </div>
+                        <div class="md:col-span-3 col-span-4">
+                            <div class="flex flex-col gap-3">
+                                <div class="flex flex-col gap-5">
+                                    <p>These legal terms shall be governed by and interpreted in accordance with the courts
+                                        of England and Wales. The courts of England and Wales shall have non-exclusive
+                                        jurisdiction to hear all disputes arising in connection with these conditions.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </template>
