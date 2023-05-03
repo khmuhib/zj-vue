@@ -23,8 +23,8 @@ export default {
       robots: `index,follow`,
       author: `Your Name`,
       date: `2023-05-03`,
-      image: `https://example.com/image.jpg`,
-      url: `https://example.com/page`,
+      image: `https://fonts.bglobal.com/assets/home-dfe25751.jpg`,
+      url: `https://fonts.bglobal.com/assets/home-dfe25751.jpg`,
       type: `website`,
     })
 
