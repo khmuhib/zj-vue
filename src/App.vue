@@ -84,7 +84,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Couture</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/couture.webp" alt="Couture">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/couture.png" alt="Couture">
             </div>
           </div>
         </router-link>
@@ -94,7 +94,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Alchemy</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/alchemy.webp" alt="Alchemy">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/alchemy.png" alt="Alchemy">
             </div>
           </div>
         </router-link>
@@ -104,7 +104,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Atelier</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.webp" alt="Atelier">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.png" alt="Atelier">
             </div>
           </div>
         </router-link>
@@ -114,7 +114,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Appointment</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.webp" alt="Appointment">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.png" alt="Appointment">
             </div>
           </div>
         </router-link>
