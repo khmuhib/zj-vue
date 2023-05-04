@@ -62,7 +62,7 @@ export default {
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class="col-span-2">
-            <img class="w-[30px]" src="@/assets/images/mobile/bar.webp" alt="" @click="MenuOpen()">
+            <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
             <RouterLink to="/">ZAEEM JAMAL <br> <span>Atelier</span></RouterLink>
