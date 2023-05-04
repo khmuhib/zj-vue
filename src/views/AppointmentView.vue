@@ -35,9 +35,9 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full hidden md:block" src="@/assets/images/appointment.jpg"
+                                <img class="px-5 w-full hidden md:block" src="@/assets/images/appointment.webp"
                                     alt="appointment">
-                                <img class="px-5 w-full block md:hidden" src="@/assets/images/appointment_mob.png"
+                                <img class="px-5 w-full block md:hidden" src="@/assets/images/appointment_mob.webp"
                                     alt="appointment">
                             </template>
                             <template v-slot:preloader>
@@ -47,7 +47,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="text-center px-5">
-                        <p class="italic md:w-[60%] m-auto font-[georgia] text-[20px]">Whether you would like to visit our
+                        <p class="italic md:w-[60%] m-auto font-[georgia] text-[18px]">Whether you would like to visit our
                             London
                             Atelier at
                             Imperial
@@ -58,22 +58,22 @@ export default {
                             Director:</p>
                     </div>
                     <div class="text-center font-[futura]">
-                        <a href="https://wa.me/+447970817777" class="font-bold" target="_blank">Whats App
-                            <span>+447970817777</span></a>
+                        <a href="https://wa.me/+447737007777" class="font-bold" target="_blank">Whats App
+                            <span>+447737007777</span></a>
                         <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com"
                                 target="_blank"><span>VIP@zaeemjamal.com</span></a>
                         </p>
                     </div>
                     <div class="text-center font-[futura]">
-                        <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
-                            <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
+                        <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
+                        <a class="inline-block" href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
                             <p class="">Park Street, Chelsea Creek</p>
                             <p class="">London SW6 2FS</p>
                         </a>
 
                     </div>
                     <div class="text-center font-[futura]">
-                        <p class="font-bold">Landline: <span class="font-normal">+44 7737 00 7777</span></p>
+                        <p class="font-bold">Landline: <span class="font-normal">+44 203 637 8277</span></p>
                     </div>
 
                 </div>

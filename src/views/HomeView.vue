@@ -23,8 +23,8 @@ export default {
       robots: `index,follow`,
       author: `Your Name`,
       date: `2023-05-03`,
-      image: `https://fonts.bglobal.com/assets/home-dfe25751.jpg`,
-      url: `https://fonts.bglobal.com/assets/home-dfe25751.jpg`,
+      image: `https://fonts.bglobal.com/assets/home-dfe25751.webp`,
+      url: `https://fonts.bglobal.com/assets/home-dfe25751.webp`,
       type: `website`,
     })
 
@@ -78,7 +78,7 @@ export default {
         '@type': 'WebSite',
         'name': 'Zaeem Jamal',
         'url': 'https://fonts.bglobal.com',
-        'logo': 'https://fonts.bglobal.com/assets/home-dfe25751.jpg',
+        'logo': 'https://fonts.bglobal.com/assets/home-dfe25751.webp',
       },
     })
   },
@@ -94,10 +94,10 @@ export default {
         <vue-load-image>
           <template v-slot:image>
             <div class="">
-              <img class="md:block hidden w-full" src="@/assets/images/home.jpg" />
+              <img class="md:block hidden w-full" src="@/assets/images/home.webp" />
             </div>
             <div class=" md:hidden block">
-              <img class="w-full" src="@/assets/images/home_mob.png" />
+              <img class="w-full" src="@/assets/images/home_mob.webp" />
             </div>
           </template>
           <template v-slot:preloader>

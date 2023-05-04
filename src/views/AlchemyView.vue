@@ -35,8 +35,8 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="md:block hidden w-full" src="@/assets/images/Cosmic.jpg" />
-                                <img class="md:hidden block w-full" src="@/assets/images/alchemy01_mob.png" />
+                                <img class="md:block hidden w-full" src="@/assets/images/Cosmic.webp" />
+                                <img class="md:hidden block w-full" src="@/assets/images/alchemy01_mob.webp" />
                             </template>
                             <template v-slot:preloader>
                                 <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -45,7 +45,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="md:px-20 px-5 text-center">
-                        <p class="italic text-[20px] font-[georgia]  px-10">Welcome to the magical world of Couturier
+                        <p class="italic text-[18px] font-[georgia]  px-10">Welcome to the magical world of Couturier
                             Zaeem
                             Jamal, heralded
                             as the 'Alchemist of design', crafting the subtle and sublime for your delight weaving dreams
@@ -55,7 +55,7 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="w-full" src="@/assets/images/alchemy02.png" alt="alchemy">
+                                <img class="w-full" src="@/assets/images/alchemy02.webp" alt="alchemy">
                             </template>
                             <template v-slot:preloader>
                                 <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -64,7 +64,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="md:px-20 px-5 text-center">
-                        <p class="italic text-[20px] font-[georgia]  px-10">Each crafted piece is an art form,
+                        <p class="italic text-[18px] font-[georgia]  px-10">Each crafted piece is an art form,
                             effortlessly
                             flowing with elegance, grace, femininity, colour and sensuality, around form, structure and
                             innovation. </p>
@@ -72,7 +72,7 @@ export default {
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="w-full" src="@/assets/images/couture05.jpg" />
+                                <img class="w-full" src="@/assets/images/couture05.webp" />
                             </template>
                             <template v-slot:preloader>
                                 <img class="m-auto" src="@/assets/images/image-loader.gif" />

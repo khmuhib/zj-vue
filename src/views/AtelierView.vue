@@ -5,11 +5,11 @@
             <div class="flex flex-col gap-y-5 py-5">
                 <div class="flex flex-col gap-5 px-5">
                     <div class="text-center">
-                        <h1 class="text-[22px] font-bold font-[futura]">ATELIER</h1>
+                        <h1 class="lg:text-[22px] text-[22px] font-bold font-[futura]">ATELIER</h1>
                         <h3 class="italic font-[georgia]  text-[20px]">Les metiers d'Art</h3>
                     </div>
                     <div class="text-center mt-5 mb-10 lg:w-[80%] m-auto">
-                        <p class="italic font-[georgia] pb-10 text-[20px]">Together under one house, our metiers exquisitely
+                        <p class="italic font-[georgia] pb-10 text-[18px]">Together under one house, our metiers exquisitely
                             craft each piece
                             to
                             it's highest
@@ -29,14 +29,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- Metier Du Design -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">Where the ideas flow...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">Where the ideas flow...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier01.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier01.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -57,14 +57,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE PATRONNAGE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">Where style gets laid...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">Where style gets laid...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier02.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier02.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -85,14 +85,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE TAILEUR -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">Where the formless takes form...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">Where the formless takes form...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier03.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier03.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -113,14 +113,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER A BRODER -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">Where the threads come alive...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">Where the threads come alive...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier04.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier04.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -141,14 +141,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER DE FINITION -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">Where it all comes together...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">Where it all comes together...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -169,14 +169,14 @@
                                     <p class="uppercase font-[futura] text-[#967C57]">- METIER D'EXPERTISE -</p>
                                 </div>
                                 <div class="text-center">
-                                    <h2 class="font-[georgia] text-[20px] italic">When the wow sets in...</h2>
+                                    <h2 class="font-[georgia] text-[18px] italic">When the wow sets in...</h2>
                                 </div>
                             </div>
                         </div>
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier06.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier06.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -207,7 +207,7 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier07.jpg" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier07.webp" alt="">
                                 </template>
                                 <template v-slot:preloader>
                                     <img class="m-auto" src="@/assets/images/image-loader.gif" />
@@ -241,7 +241,7 @@ export default {
                     title: 'Design',
                     writer: 'Metier Du Design',
                     tagLine: 'From dream to paper..via pen!',
-                    img: 'atelier01.jpg'
+                    img: 'atelier01.webp'
                 },
                 {
                     id: 2,
@@ -249,7 +249,7 @@ export default {
                     title: 'PATTERNS',
                     writer: 'METIER DE PATRONNAGE',
                     tagLine: 'Rock, paper, scissors!',
-                    img: 'atelier02.jpg'
+                    img: 'atelier02.webp'
                 },
                 {
                     id: 3,
@@ -257,7 +257,7 @@ export default {
                     title: 'TAILORING',
                     writer: 'METIER DE TAILEUR',
                     tagLine: 'Itching to stitch!',
-                    img: 'atelier03.jpg'
+                    img: 'atelier03.webp'
                 },
                 {
                     id: 4,
@@ -265,7 +265,7 @@ export default {
                     title: 'EMBROIDERY',
                     writer: 'METIER A BRODER',
                     tagLine: 'Exquisite embrace!',
-                    img: 'atelier04.jpg'
+                    img: 'atelier04.webp'
                 },
                 {
                     id: 5,
@@ -273,7 +273,7 @@ export default {
                     title: 'FINISHING',
                     writer: 'METIER DE FINITION',
                     tagLine: 'Altention to detail!',
-                    img: 'atelier05.jpg'
+                    img: 'atelier05.webp'
                 },
                 {
                     id: 6,
@@ -281,7 +281,7 @@ export default {
                     title: 'PERFECTION',
                     writer: `'METIER D'EXPERTISE'`,
                     tagLine: 'The final touch!',
-                    img: 'atelier06.jpg'
+                    img: 'atelier06.webp'
                 },
             ]
         }
