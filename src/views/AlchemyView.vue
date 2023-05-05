@@ -45,7 +45,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="md:px-20 px-5 text-center">
-                        <p class="italic text-[18px] font-[georgia]  px-10">Welcome to the magical world of Couturier
+                        <p class="italic text-[16px] font-[georgia] px-10">Welcome to the magical world of Couturier
                             Zaeem
                             Jamal, heralded
                             as the 'Alchemist of design', crafting the subtle and sublime for your delight weaving dreams
@@ -64,7 +64,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="md:px-20 px-5 text-center">
-                        <p class="italic text-[18px] font-[georgia]  px-10">Each crafted piece is an art form,
+                        <p class="italic text-[16px] font-[georgia] px-10">Each crafted piece is an art form,
                             effortlessly
                             flowing with elegance, grace, femininity, colour and sensuality, around form, structure and
                             innovation. </p>
@@ -85,6 +85,7 @@ export default {
 
         </div>
     </div>
+    <div class="py-5"></div>
 </template>
   
 <style></style>

@@ -47,7 +47,7 @@ export default {
                         </vue-load-image>
                     </div>
                     <div class="text-center px-5">
-                        <p class="italic md:w-[60%] m-auto font-[georgia] text-[18px]">Whether you would like to visit our
+                        <p class="italic md:w-[60%] m-auto font-[georgia] text-[16px]">Whether you would like to visit our
                             London
                             Atelier at
                             Imperial
@@ -80,6 +80,7 @@ export default {
             </div>
         </div>
     </div>
+    <div class="py-5"></div>
 </template>
   
 <style></style>

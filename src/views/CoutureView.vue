@@ -13,7 +13,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">
                             Signature
                             Cocktail</h3>
                     </div>
@@ -29,7 +29,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Queen's
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Queen's
                             Necklace</h3>
                     </div>
 
@@ -43,7 +43,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">
                             Emergence
                             Ensemble</h3>
                     </div>
@@ -58,7 +58,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Wild
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Wild
                             Durrell</h3>
                     </div>
 
@@ -72,7 +72,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Twenties
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Twenties
                             Affair</h3>
                     </div>
 
@@ -87,7 +87,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Crystal
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Crystal
                             Column</h3>
                     </div>
 
@@ -101,7 +101,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Soul
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Soul
                             Radiance</h3>
                     </div>
 
@@ -116,7 +116,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Crystal
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Crystal
                             Chic</h3>
                     </div>
 
@@ -130,7 +130,7 @@
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
-                        <h3 class="uppercase text-center text-[#967C57] lg:font-semibold text-[16px] font-[futura]">Caped
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">Caped
                             Wonder</h3>
                     </div>
 
@@ -138,9 +138,9 @@
 
                 </div>
             </div>
-
         </div>
     </div>
+    <div class="py-3"></div>
 </template>
 
 <script>
