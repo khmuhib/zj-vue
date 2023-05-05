@@ -6,10 +6,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture09.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture09.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -22,10 +22,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture10.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture10.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -36,10 +36,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture01.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture01.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -51,10 +51,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture03.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture03.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -65,10 +65,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture08.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture08.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader">
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -80,10 +80,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture06.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture06.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -94,10 +94,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture11.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture11.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -109,10 +109,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture02.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture02.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>
@@ -123,10 +123,10 @@
                     <div class="">
                         <vue-load-image>
                             <template v-slot:image>
-                                <img class="px-5 w-full" src="@/assets/images/couture07.webp" alt="">
+                                <img class="px-5 w-full" src="@/assets/images/couture07.webp" alt="Couture">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>

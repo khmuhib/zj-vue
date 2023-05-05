@@ -41,7 +41,7 @@ export default {
                                     alt="appointment">
                             </template>
                             <template v-slot:preloader>
-                                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                             </template>
                             <template v-slot:error>Image load fails</template>
                         </vue-load-image>

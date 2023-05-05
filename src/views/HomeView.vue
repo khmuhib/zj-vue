@@ -94,15 +94,15 @@ export default {
         <vue-load-image>
           <template v-slot:image>
             <div class="">
-              <img class="md:block hidden w-full" src="@/assets/images/home.webp" />
+              <img class="md:block hidden w-full" src="@/assets/images/home.webp" alt="Home" />
             </div>
             <div class=" md:hidden block">
-              <img class="w-full max-h-[1500px]" src="@/assets/images/home_mob.webp" />
+              <img class="w-full max-h-[1500px]" src="@/assets/images/home_mob.webp" alt="Home" />
             </div>
           </template>
           <template v-slot:preloader>
             <div class=" md:hidden block">
-              <img class="m-auto" src="@/assets/images/image-loader.gif" />
+              <img class="m-auto" src="@/assets/images/image-loader.gif" alt="image loader gif" />
             </div>
           </template>
           <template v-slot:error>Image load fails</template>

@@ -37,10 +37,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier01.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier01.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -65,10 +65,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier02.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier02.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -93,10 +93,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier03.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier03.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -121,10 +121,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier04.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier04.webp" alt="atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -149,10 +149,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier05.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -177,10 +177,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier06.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier06.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>
@@ -208,10 +208,10 @@
                         <div class="">
                             <vue-load-image>
                                 <template v-slot:image>
-                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier07.webp" alt="">
+                                    <img class="m-auto w-[350px]" src="@/assets/images/atelier07.webp" alt="Atelier">
                                 </template>
                                 <template v-slot:preloader>
-                                    <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                                    <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
                                 </template>
                                 <template v-slot:error>Image load fails</template>
                             </vue-load-image>

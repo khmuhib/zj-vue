@@ -15,7 +15,7 @@ export default {
                 <img class="h-[400px] md:h-[100vh] m-auto" src="@/assets/images/404.webp" alt="404 Page">
             </template>
             <template v-slot:preloader>
-                <img class="m-auto" src="@/assets/images/image-loader.gif" />
+                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
             </template>
             <template v-slot:error>Image load fails</template>
         </vue-load-image>
