@@ -97,7 +97,8 @@ export default {
               <img class="md:block hidden w-full" src="@/assets/images/home.webp" alt="Home" />
             </div>
             <div class=" md:hidden block">
-              <img class="w-full max-h-[1500px]" src="@/assets/images/home_mob.webp" alt="Home" />
+              <img class="w-full max-h-[1500px]" width="600" height="900" src="@/assets/images/home_mob.webp"
+                alt="Home" />
             </div>
           </template>
           <template v-slot:preloader>
