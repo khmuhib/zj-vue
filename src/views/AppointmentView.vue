@@ -80,7 +80,7 @@ export default {
             </div>
         </div>
     </div>
-    <div class="py-5"></div>
+    <div class="py-10"></div>
 </template>
   
 <style></style>

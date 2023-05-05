@@ -131,8 +131,10 @@ export default {
           <div class="grid sm:grid-cols-2 lg:grid-cols-6 grid-cols-1 text-white gap-5">
             <div class="text-center lg:col-span-2">
               <h4 class="uppercase font-bold">PRIVATE APPOINTMENTS</h4>
-              <a href="https://wa.me/+447737007777" class="font-gill" target="_blank">Whats App +44 7737 00 7777</a>
-              <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com">VIP@zaeemjamal.com</a></p>
+              <a href="https://wa.me/+447737007777" class="font-gill" target="_blank"
+                aria-label="Connect with whatsapp">Whats App +44 7737 00 7777</a>
+              <p class="font-gill">Email: <a href="mailto:vip@zaeemjamal.com"
+                  aria-label="Direct mail to us">VIP@zaeemjamal.com</a></p>
             </div>
             <div class="text-center lg:col-span-2">
               <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
@@ -144,8 +146,7 @@ export default {
             </div>
             <div class="text-center">
               <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-                <img class="m-auto w-[40px] h-[40px]" style="height: 40px; width: 40px;" src="@/assets/images/insta.webp"
-                  alt="Instagram">
+                <img class="m-auto w-[40px] h-[40px]" src="@/assets/images/insta.webp" alt="Instagram">
               </a>
             </div>
             <div class="text-center">
@@ -154,7 +155,7 @@ export default {
           </div>
           <div class="text-center py-5">
             <a href="/">
-              <img class="m-auto h-[80px]" style="height: 80px; width: 62px;" src="@/assets/images/logo.webp" alt="Logo">
+              <img class="m-auto h-[80px] w-[62px]" src="@/assets/images/logo.webp" alt="Logo">
             </a>
           </div>
         </div>
