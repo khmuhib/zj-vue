@@ -62,7 +62,8 @@ export default {
       <div class="container m-auto">
         <div class="grid grid-cols-12 items-center justify-center sm:px-10 px-5">
           <div class="col-span-2">
-            <img class="w-[30px]" src="@/assets/images/mobile/bar.png" alt="" @click="MenuOpen()">
+            <img class="w-[30px]" style="width: 30px;height: 25px;" src="@/assets/images/mobile/bar.webp" alt=""
+              @click="MenuOpen()">
           </div>
           <div class="main-logo text-center col-span-8">
             <RouterLink to="/">ZAEEM JAMAL <br> <span>Atelier</span></RouterLink>
@@ -84,7 +85,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Couture</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/couture.png" alt="Couture">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/couture.webp" alt="Couture">
             </div>
           </div>
         </router-link>
@@ -94,7 +95,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Alchemy</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/alchemy.png" alt="Alchemy">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/alchemy.webp" alt="Alchemy">
             </div>
           </div>
         </router-link>
@@ -104,7 +105,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Atelier</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.png" alt="Atelier">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/atelier.webp" alt="Atelier">
             </div>
           </div>
         </router-link>
@@ -114,7 +115,7 @@ export default {
               <p class="text-[#967C57] font-[futura] uppercase text-right">Appointment</p>
             </div>
             <div class="col-span-6">
-              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.png" alt="Appointment">
+              <img class="w-[100px] h-[100px]" src="@/assets/images/mobile/appointment.webp" alt="Appointment">
             </div>
           </div>
         </router-link>
@@ -143,7 +144,8 @@ export default {
             </div>
             <div class="text-center">
               <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-                <img class="m-auto h-[40px] w-[40px]" src="@/assets/images/insta.webp" alt="Instagram">
+                <img class="m-auto w-[40px] h-[40px]" style="height: 40px; width: 40px;" src="@/assets/images/insta.webp"
+                  alt="Instagram">
               </a>
             </div>
             <div class="text-center">
@@ -152,7 +154,7 @@ export default {
           </div>
           <div class="text-center py-5">
             <a href="/">
-              <img class="m-auto h-[80px]" src="@/assets/images/logo.webp" alt="Logo">
+              <img class="m-auto h-[80px]" style="height: 80px; width: 62px;" src="@/assets/images/logo.webp" alt="Logo">
             </a>
           </div>
         </div>

@@ -4,20 +4,36 @@
 
 @font-face {
   font-family: "futura";
-  src: url("./fonts/Futura-Medium.woff2");
+  font-style: normal;
+  font-weight: normal;
+  src: local("futura regular"), local("futura-regular"),
+    url("./fonts/Futura-Medium.woff2") format("woff2");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "cinzel";
-  src: url("./fonts/Cinzel-Regular.woff2");
+  font-style: normal;
+  font-weight: normal;
+  src: local("cinzel regular"), local("cinzel-regular"),
+    url("./fonts/Cinzel-Regular.woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "georgia";
-  src: url("./fonts/Georgia-Italic.woff2");
+  font-style: normal;
+  font-weight: normal;
+  src: local("georgia regular"), local("georgia-regular"),
+    url("./fonts/Georgia-Italic.woff2");
+  font-display: swap;
 }
 @font-face {
   font-family: "georgia-reg";
-  src: url("./fonts/Georgia.woff2");
+  font-style: normal;
+  font-weight: normal;
+  src: local("georgia-reg regular"), local("georgia-reg-regular"),
+    url("./fonts/Georgia.woff2");
+  font-display: swap;
 }
 
 /* @layer base {
