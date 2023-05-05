@@ -146,7 +146,7 @@ export default {
             </div>
             <div class="text-center">
               <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-                <img class="m-auto w-[40px] h-[40px]" src="@/assets/images/insta.webp" alt="Instagram">
+                <img class="m-auto" height="40px" width="40px" src="@/assets/images/insta.webp" alt="Instagram">
               </a>
             </div>
             <div class="text-center">
@@ -155,7 +155,7 @@ export default {
           </div>
           <div class="text-center py-5">
             <a href="/">
-              <img class="m-auto h-[80px] w-[62px]" src="@/assets/images/logo.webp" alt="Logo">
+              <img class="m-auto" height="80px" width="62px" src="@/assets/images/logo.webp" alt="Logo">
             </a>
           </div>
         </div>
