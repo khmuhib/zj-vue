@@ -36,26 +36,6 @@
   font-display: swap;
 }
 
-/* @layer base {
-  p,
-  span,
-  small {
-    font-family: "gill";
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  a,
-  button {
-    font-family: "futura";
-  }
-} */
-
-/* color palette from <https://github.com/vuejs/theme> */
 :root {
   --vt-c-white: #ffffff;
   --vt-c-white-soft: #f8f8f8;

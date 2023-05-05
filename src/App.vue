@@ -146,7 +146,12 @@ export default {
             </div>
             <div class="text-center">
               <a href="https://www.instagram.com/zaeemjamal/" target="_blank">
-                <img class="m-auto" height="40px" width="40px" src="@/assets/images/insta.webp" alt="Instagram">
+                <!-- <img class="m-auto" height="40px" width="40px" src="@/assets/images/insta.webp" alt="Instagram"> -->
+                <img class="m-auto" srcset="@/assets/images/insta.webp 480w,
+                @/assets/images/insta.webp 768w,
+                @/assets/images/insta.webp 1200w" sizes="(max-width: 480px) 100vw,
+            (max-width: 768px) 50vw,
+            1200px" src="@/assets/images/insta.webp" alt="Instagram" height="40" width="40">
               </a>
             </div>
             <div class="text-center">
