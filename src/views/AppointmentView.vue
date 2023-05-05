@@ -58,15 +58,17 @@ export default {
                             Director:</p>
                     </div>
                     <div class="text-center font-[futura]">
-                        <a href="https://wa.me/+447737007777" class="font-bold" target="_blank">Whats App
+                        <a href="https://wa.me/+447737007777" class="font-bold" target="_blank"
+                            aria-label="Direct massage us">Whats App
                             <span>+447737007777</span></a>
-                        <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com"
-                                target="_blank"><span>VIP@zaeemjamal.com</span></a>
+                        <p class="font-bold">Email: <a href="mailto:vip@zaeemjamal.com" target="_blank"
+                                aria-label="Direct contact us"><span>VIP@zaeemjamal.com</span></a>
                         </p>
                     </div>
                     <div class="text-center font-[futura]">
                         <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
-                        <a class="inline-block" href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
+                        <a class="inline-block" href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank"
+                            aria-label="Direct Location">
                             <p class="">Park Street, Chelsea Creek</p>
                             <p class="">London SW6 2FS</p>
                         </a>

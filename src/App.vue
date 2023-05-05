@@ -137,7 +137,7 @@ export default {
                   aria-label="Direct mail to us">VIP@zaeemjamal.com</a></p>
             </div>
             <div class="text-center lg:col-span-2">
-              <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank">
+              <a href="https://goo.gl/maps/PQcYGi3fEmBxCPQz5" target="_blank" aria-label="Direct Location">
                 <h4 class="uppercase font-bold">ZAEEM JAMAL ATELIER</h4>
                 <p class="font-gill">Park Street, Chelsea Creek</p>
                 <p class="font-gill">London. SW6 2FS</p>
