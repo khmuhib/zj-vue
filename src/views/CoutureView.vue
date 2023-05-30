@@ -134,6 +134,32 @@
                             Wonder</h3>
                     </div>
 
+                    <div class="">
+                        <vue-load-image>
+                            <template v-slot:image>
+                                <img class="px-5 w-full" src="@/assets/images/couture-cascading-angel.webp" alt="Couture">
+                            </template>
+                            <template v-slot:preloader>
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
+                            </template>
+                            <template v-slot:error>Image load fails</template>
+                        </vue-load-image>
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">CASCADING ANGEL</h3>
+                    </div>
+
+                    <div class="">
+                        <vue-load-image>
+                            <template v-slot:image>
+                                <img class="px-5 w-full" src="@/assets/images/couture-walking-beauty.webp" alt="Couture">
+                            </template>
+                            <template v-slot:preloader>
+                                <img class="m-auto" src="@/assets/images/image-loader.gif" alt="Image Loader" />
+                            </template>
+                            <template v-slot:error>Image load fails</template>
+                        </vue-load-image>
+                        <h3 class="uppercase text-center text-[#967C57] mt-2 text-[16px] font-[futura]">WALKING BEAUTY</h3>
+                    </div>
+
 
 
                 </div>
